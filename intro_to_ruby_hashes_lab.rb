@@ -27,7 +27,7 @@ end
 		:railroads => {
 		 :pieces => 4,
 		 :names=> {
-		    reading_railroad => {}
+		    :reading_railroad => {}
 		 },
 		:rent_in_dollars => {}
 		  :one_piece_owned =>25
@@ -35,6 +35,7 @@ end
 		  :three_piecies_owned =>100
 		  :four_piecies_owned => 200
 		}
+		
     
     end
 
