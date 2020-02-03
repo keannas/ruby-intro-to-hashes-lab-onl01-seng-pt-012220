@@ -34,8 +34,7 @@ end
 		  :two_pieces_owned =>50
 		  :three_piecies_owned =>100
 		  :four_piecies_owned => 200
-		}
-    }
+		
 		
   end
 
